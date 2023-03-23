@@ -1,0 +1,16 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Log files
+*.log
+
+
+# ignore any media files
+output
+pictures
+
+.DS_Store
